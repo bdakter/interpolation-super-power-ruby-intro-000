@@ -1,7 +1,7 @@
 rainbow = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
 def display_rainbow(color_array)
-  puts "R: #{color_array[0]},
+  p "R: #{color_array[0]},
         O: #{color_array[1]},
         Y: #{color_array[2]},
         G: #{color_array[3]},
