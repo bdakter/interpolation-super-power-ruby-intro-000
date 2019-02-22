@@ -7,7 +7,7 @@ def display_rainbow(color_array)
   print "G: #{color_array[3]}, "
   print "B: #{color_array[4]}, "
   print "I: #{color_array[5]}, "
-  print "V: #{color_array[6]}"
+  puts "V: #{color_array[6]}"
 end
 
 display_rainbow(rainbow)
